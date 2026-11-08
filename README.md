@@ -2,7 +2,9 @@
 
 **Student Name:** Y. Eswar sai durga prasad  
 **Registration Number:** 252U1R3104  
-**Class:** CSE-DS-2B
+**Class:** CSE-DS-2B  
+**Live Deployed URL:** https://backend-lab03.onrender.com/  
+**GitHub Repository:** https://github.com/eswarsaidurgaprasad-hash/backend-lab03  
 
 A complete Node.js + Express + SQLite implementation of Lab 3, continued from the Lab 2 `book` table approach.
 
@@ -36,7 +38,7 @@ A complete Node.js + Express + SQLite implementation of Lab 3, continued from th
    ```bash
    npm run dev
    ```
-5. Open `http://localhost:3000/`. The SQLite database `data/books.db` is created automatically and seeded with 10 sample books on the first run.
+5. Open `http://localhost:3000/` (or live at `https://backend-lab03.onrender.com/`). The SQLite database `data/books.db` is created automatically and seeded with 10 sample books on the first run.
 
 If port 3000 is busy, run:
 ```cmd
